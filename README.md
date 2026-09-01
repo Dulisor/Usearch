@@ -52,7 +52,7 @@ python main.py
 <img width="800" height="420" alt="GIF" src="https://github.com/user-attachments/assets/3a0216bc-0188-4277-b47d-66b42702b9aa" />
 
 
-### Example Output
+### Example Output:
 ```    
 Enter username to search: johndoe
 Input 'S' for Sherlock or 'B' for Built-In Site list from the config.py file: B
