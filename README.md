@@ -170,7 +170,7 @@ This tool is for educational and legitimate research purposes only. Users are re
 
 ## Contributing
 
-### Contributions are welcome! Please:
+Contributions are welcome! Please:
 
 * Fork the repository
 * Create a feature branch
