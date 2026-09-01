@@ -1,5 +1,5 @@
 # Usearch
-A powerful username search tool that scans for a username across multiple social media platforms using both built-in site lists and the Sherlock project.
+A powerful username search tool that scans for a username across multiple social media platforms using both built-in site list and the Sherlock project.
 
 <img width="1853" height="627" alt="Img" src="https://github.com/user-attachments/assets/44496852-a699-476b-87c3-37a8103dfdc8" />
 
