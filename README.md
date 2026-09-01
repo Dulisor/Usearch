@@ -101,7 +101,7 @@ HEADERS = {"User-Agent": "Your custom user agent here"}
 
 ## Output Format
 
-###Results are saved in a structured text file:
+### Results are saved in a structured text file:
 
 ```text
 Username Search Results for: johndoe
