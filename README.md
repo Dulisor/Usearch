@@ -43,7 +43,7 @@ sherlock --help
 ```
 ## Usage
 
-### Run the script:
+### Run the script
 
 ```bash
 
