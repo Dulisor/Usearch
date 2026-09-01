@@ -43,7 +43,7 @@ sherlock --help
 ```
 ## Usage
 
-### Run the script
+### Run the script:
 
 ```bash
 
@@ -74,7 +74,7 @@ Searching for: johndoe
 [✓] Results saved to: johndoe.txt
 ```
 ## Configuration
-### Built-in Sites (```config.py```)
+### Built-in Sites (```config.py```):
 ```python
 SITES = {
     "GitHub": "https://github.com/{}",
